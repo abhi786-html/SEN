@@ -1,1 +1,2 @@
 # SEN
+This project is a dynamic web application featuring a responsive frontend built with HTML, CSS, and JavaScript, along with a PHP backend. It dynamically serves articles and content without the use of a database, leveraging PHP to manage and deliver the data. The application includes filtering options for categories such as "Latest," "Most Popular," and "Editors' Picks," ensuring an engaging and seamless user experience.
